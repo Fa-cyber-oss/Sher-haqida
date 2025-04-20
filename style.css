@@ -1,0 +1,74 @@
+.tag-1 {
+    text-align: center;
+    background-color: rgb(145, 145, 255);;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+.tag-2 {
+    color: brown;
+}
+.tag-3 {
+    color: green;
+}
+.tag-4 {
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+.tag-5 {
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+.tag-6 {
+    color: green
+}
+.tag-7 {
+    width: 80%;
+}
+.tag-8 {
+    width: 20%;
+    background-color: cornflowerblue;
+    color: white;
+    border: 10px solid cornflowerblue;
+    height: 30px;
+}
+.tag-9 {
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.th-1 {
+    background-color: rgb(70, 116, 0);
+    text-align: center;
+    color: white;
+}
+.th-2 {
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.td-1 {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.td-2 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.td-3 {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.td-4 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
